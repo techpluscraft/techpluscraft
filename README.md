@@ -18,6 +18,8 @@ I'm techpluscraft the guy who make videos on youtube.
 
 ![HTML5](https://img.icons8.com/color/30/html-5.png) ![CSS3](https://img.icons8.com/color/30/css3.png) ![Python](https://img.icons8.com/color/30/000000/python--v1.png)![Pycharm](https://img.icons8.com/color/30/000000/pycharm.png) ![Github](https://img.icons8.com/material-outlined/30/github.png) ![Git](https://img.icons8.com/color/30/git.png) ![VSCode](https://img.icons8.com/color/30/visual-studio-code-2019.png)
 
+##
+
 ## My Activities
 
 <a style="text-decoration: none;" href="https://www.youtube.com/channel/UCROCWByQ4WZAZoxqmkqlxFw">
