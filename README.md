@@ -26,7 +26,7 @@ I'm techpluscraft the guy who make videos on youtube.
   <img width=450 height=170 align="center" src="https://github-readme-stats.vercel.app/api?username=techpluscraft&theme=midnight-purple&show_icons=true&bg_color=0D1117&hide_border=true" />
 </a>
 <a href="https://www.youtube.com/channel/UCROCWByQ4WZAZoxqmkqlxFw">
-  <img align="center" src="" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=techpluscraft&theme=midnight-purple&layout=compact&bg_color=0D1117&hide_border=true" />
 </a>
 
 <p align='center'>
