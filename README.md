@@ -11,7 +11,7 @@
 I'm techpluscraft the guy who make videos on youtube.
 
 - :muscle:  Currently creating discord bots and small projects.
-- :gift_heart:  Owner of Steam Ship and Air Craft
+- :gift_heart:  Owner of Steam Ship, Air Craft, and Pixel Dog
 - ✊ Not perfect, but i'll be one day.
 
 ## :wrench: Interests
